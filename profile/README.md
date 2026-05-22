@@ -39,8 +39,8 @@ Python, Django, Django REST Framework, Celery, AWS Lambda Powertools, PostgreSQL
 
 ## People
 
-- [Mario Javier Tamayo](https://github.com/LhTBL) - founder and principal engineer
-- [Arian Camejo](https://github.com/ariancamejo) - organization member
+- [Mario Javier Tamayo](https://github.com/LhTBL) - founder
+- [Arian Camejo](https://github.com/ariancamejo) - principal engineer
 
 ## Contact
 
