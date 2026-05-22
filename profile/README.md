@@ -1,14 +1,15 @@
-# Cyvy Online / Q Development
+# Cyvy Online
 
 We build production software for companies that need operational systems, automation, AI-assisted workflows, and pragmatic infrastructure that can be deployed, observed, and maintained.
 
-Cyvy Online is our Brazil-facing company identity. Q Development is the engineering organization behind our product and client delivery work.
+Cyvy Online is a Brazil-based software company. This GitHub organization is our public engineering profile for product and client delivery work.
 
 ## What We Build
 
 ### Production SaaS and AI Products
 
 - **Hauzertech / Agente Hai** - a production real-estate AI-agent SaaS with WhatsApp-first lead handling, tenant-isolated operations, a Django backend, React web console, WinUI desktop operations app, .NET MAUI mobile app, Astro marketing surfaces, Firebase push notifications, GCP-backed operations, VPS deployment, backups, and monitoring.
+- **TeeShot AI** - a Flutter mobile product approved on Google Play and the Apple App Store, with AI caddie features, GPS/course workflows, subscriptions, payment gateways, and release operations.
 - **FleetKeeper** - carrier and DOT compliance software for operational reporting, compliance intelligence, and carrier-data workflows.
 - **Q.Suite** - .NET customer-service and POS foundations for local operations, assisted workflows, and back-office tooling.
 
@@ -27,7 +28,7 @@ We prefer systems that are useful in production over demos that only look finish
 
 ## Main Technologies
 
-Python, Django, Django REST Framework, Celery, PostgreSQL, Redis, RabbitMQ, Kafka, TypeScript, React, Angular, C#, .NET, WinUI, .NET MAUI, Dart, Docker, Nginx, GCP, Firebase, AWS, Linux, and GitHub Actions.
+Python, Django, Django REST Framework, Celery, AWS Lambda Powertools, PostgreSQL, Redis, RabbitMQ, Kafka, TypeScript, Angular, Blazor, React, C#, .NET, WinUI, .NET MAUI, Flutter, Dart, Docker, Nginx, GCP, Firebase, AWS, Linux, and GitHub Actions.
 
 ## Contact
 
